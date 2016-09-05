@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:padding="48dp"
+    android:background="#e7e70e"
+    android:layout_marginBottom="48dp"
+    android:focusableInTouchMode="true"
+    >
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Meter en Fragment One"
+        />
+
+    <Button
+        android:id="@+id/button_go"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="#e70f69"
+        android:textSize="24dp"
+        android:text="GO"
+        />
+
+
+</LinearLayout>
