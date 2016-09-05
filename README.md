@@ -1,0 +1,1 @@
+Two Fragments: fragment A captures from an EditText, it is linked through greenRobot EventBus () to Second Fragment, that shows the output when the button is clicked. There is anotrher version of this app using interface Android classical system
